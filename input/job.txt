@@ -1,0 +1,17 @@
+Title: Software Developer
+Company: FDM
+About: 
+- You will undergo industry specific training and continue your career journey as an FDM consultant by working for one of our globally recognized clients. Some common positions you could take on include Front-end Developer, Back-end Developer, Full Stack Developer, DevOps Engineer and more.
+- As a Software Developer your main role will be to solve problems, upgrade existing systems and improve efficiency for the overall success of large software development projects. You will use your coding and creative thinking skills to impact the development and delivery of technological solutions for businesses. Your range of responsibilities will include writing, developing, testing and reviewing code in order to optimize existing applications and fixing defects.
+- This position is ideal for final year students hoping to secure an entry-level job upon graduation. No previous qualifications or STEM Field experience is required.
+
+Qualifications: 
+#1: Eligible to work in Canada. 
+#2: Degree or Diploma (preferably in Computer Science...)
+#3: Able to commit to work for FDM for a minimum of two years working as an FDM consultant following the training period.
+
+Requirements: 
+#1: A natural aptitude for technology and a strong desire to expand your technical skill set.
+#2: Exposure or familiarity with one or more programming languages (Python, Java, C, C++, C#).
+#3: Exposure to one or more operating systems (Microsoft, Linux).
+#4: Understanding of databases and SQL.

@@ -10,7 +10,6 @@ SKILLS:
 
 EXPERIENCE: 
 
-  #1: 
   Role: Software Product Management Intern 
   Company: Environics Analytics
   When: Apr 2023 - Sep 2023
@@ -20,7 +19,6 @@ EXPERIENCE:
     - Created a user-friendly app with Python/QT to extract client usage data of company products from databases; provided ease of data access and analysis by non-technical teams. 
     - Enhanced databases to monitor client usage of products/APIs to formulate an optimized product pricing strategy and ultimately increase profitability and user satisfaction.
 
-  #2 Student Engineer @ Martinrea International
   Role: Student Engineer
   Company: Martinrea International
   When: Jan 2022 - Aug 2022
@@ -55,5 +53,3 @@ EDUCATION:
   Computer Science, Honours @ University of Waterloo
   - Pursuing Specialization in Data Science.
   - Relevent Courses: Object-Oriented Software Development, Databases, User Interfaces, Algorithms, Statistics, Probability
-
-
