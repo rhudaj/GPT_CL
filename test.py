@@ -1,10 +1,9 @@
-# API KEY: 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
 
 import openai
 import json
 from format import output_2_pdf
 
-openai.api_key = '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'
+openai.api_key = 'PUT YOURS HERE'
 
 # ------------------------------------------------------------------------------------------------
 
